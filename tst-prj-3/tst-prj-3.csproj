@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>OPST.TstSln3</RootNamespace>
+        <AssemblyName>OPST.TstPrj3</AssemblyName>
+        <PackageId>OPST.TstSln3</PackageId>
+        <Title>Test Solution 3</Title>
+        <Authors>OPST</Authors>
+        <Description>Test solution/project.</Description>
+        <Copyright>Copyright 2021</Copyright>
+        <RepositoryUrl>https://github.com/op-st/tst-sln-3</RepositoryUrl>
+        <Company>Operational Streamlining</Company>
+        <Product>Testing</Product>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OPST.TstSln1" Version="1.0.2" />
+    </ItemGroup>
+
+</Project>
