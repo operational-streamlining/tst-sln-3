@@ -13,10 +13,11 @@
         <Company>Operational Streamlining</Company>
         <Product>Testing</Product>
         <AssemblyVersion>1.0.0</AssemblyVersion>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="OPST.TstSln1" Version="1.0.2" />
+      <PackageReference Include="OPST.TstSln1" Version="1.0.4" />
     </ItemGroup>
 
 </Project>

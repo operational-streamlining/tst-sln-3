@@ -2,7 +2,7 @@
 
 namespace OPST.TstSln3
 {
-    public class TstCls3 : TstCls1a, TstIfc3
+    public class TstCls3 : TstCls1, TstIfc3
     {
     }
 }
