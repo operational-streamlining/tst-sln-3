@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>OPST.TstSln3</id>
+    <version>1.0.2</version>
+    <title>Test Solution 3</title>
+    <authors>OPST</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/op-st/tst-sln-3</projectUrl>
+    <repository url="https://github.com/op-st/tst-sln-3" />
+    <description>Test solution/project.</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\net5.0\*.dll" target="lib\net5.0" />
+  </files>
+</package>

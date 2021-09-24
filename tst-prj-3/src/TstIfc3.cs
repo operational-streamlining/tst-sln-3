@@ -2,5 +2,6 @@
 {
     public interface TstIfc3
     {
+        void Run();
     }
 }
